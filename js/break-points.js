@@ -23,7 +23,7 @@ var BreakPoints = function() {
     console.log('Set a break point here');
     console.log('Now a, b, c, and d all have string values');
     console.log('Also `this` should now be set to `myObject`');
-  };
+  }
 
   var myObject = { foo: 'bar' };
 
