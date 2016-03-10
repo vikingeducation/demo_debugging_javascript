@@ -1,4 +1,4 @@
-# Demo JavaScript Debugging in Chrome
+# Demo JavaScript Debugging
 
 Repo for the Chrome Dev Tools demo
 
